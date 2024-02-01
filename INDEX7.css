@@ -1,0 +1,140 @@
+*{
+    margin: 0; 
+}
+body{
+    background-image: url('abstract-white-and-grey-gradient-color-with-modern-geometric-background-for-graphic-design-element-vector.jpg');
+}
+.menu_area{
+    height:80px; background: #171772;
+}
+.alignment{
+    height: 100px; width: 60%; background: #9e1b1b; margin: auto;
+}
+.logo{
+    color: #f9f9f9;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+    list-style: none; padding: 0;  font-family: verdana;
+}
+a{
+    text-decoration:none ;color: #fdfdfd;
+}
+.navigation{
+    padding: 25px 25px;display: flex;justify-content: space-between; align-items: center;
+}
+.menu_ul{
+    display: flex;
+}
+.menu_ul li a {
+    padding: 15px 10px;
+}
+
+.menuArea{
+    height: 50px; background: #000000; 
+}
+.align_ment{
+    height: 50px; width: 60%; background: #000000; margin-top: 40px; margin: auto;
+}
+
+ul{
+    list-style: none; padding: 0;  font-family: verdana;
+}
+a{
+    text-decoration:none ;color: #fdfdfd;
+}
+.navi_gation{
+    display: flex;justify-content: space-between; align-items: center;padding: 16px 16px;
+}
+.menuul{
+    display: flex;
+}
+.menuul li a {
+    padding: 15px 10px;
+ 
+}
+.mainbox{
+    display: flex; justify-content: center; gap: 10px; margin-top: 19px;
+
+}
+
+
+    
+
+.box1{
+    height: 400px;width: 470px; background: #867575; 
+}
+.box2{
+    height: 400px;width: 470px; background: #618668; 
+}
+.main_box{
+    display: flex;
+    gap: 100px;
+}
+.box_1{
+    height:500px;  width:450px; margin-left:10px ;     background: #fdfdfd;
+}
+.box_2{
+   
+    gap: 10px;
+   
+}
+.box_21{
+    margin-top: 40px;  height:400px;  width:800px; background: #fbfbfb; display: flex; gap: 10px;
+}
+.box_211{
+    
+       height:400px;  width:400px; background: #14cf56; position: relative;
+}
+.box_2111{
+    height:180px;  width:140px; background: #ecf0ed; position: absolute;top: 100px;
+}
+.box_2112{
+    height:40px;  width:40px; background: #181e5b; position: absolute;left:100px ;  top:167px;}
+    .box_2113{
+        height:40px;  width:40px; background: #181e5b; position: absolute;left:200px ;top: 120px;}
+        .box_2114{
+            height:40px;  width:40px; background: #181e5b; position: absolute;left:180px ;top: 190px;}
+            
+            .box_2115{
+                height:40px;  width:40px; background: #181e5b; position: absolute;left:260px ;  top:230px;}
+                .box_2116{
+                    height:40px;  width:40px; background: #181e5b; position: absolute;left:230px ;top: 280px;}
+                    .box_2117{
+                        height:40px;  width:40px; background: #181e5b; position: absolute;left:200px ;top: 320px;}
+                        
+            
+
+
+
+
+.box_2121{
+    height:180px;  width:140px; background: #ecf0ed; position: absolute;left: 255px; top:100px ; 
+}
+.box_2122{
+    height:40px;  width:40px; background: #181e5b; position: absolute;left:240px ;  top:167px;}
+    .box_2123{
+        height:40px;  width:40px; background: #181e5b; position: absolute;left:200px ;top: 120px;}
+        .box_2124{
+            height:40px;  width:40px; background: #181e5b; position: absolute;left:290px ;top: 190px;}
+            
+            .box_2125{
+                height:40px;  width:40px; background: #181e5b; position: absolute;left:260px ;  top:230px;}
+                .box_2126{
+                    height:40px;  width:40px; background: #181e5b; position: absolute;left:230px ;top: 280px;}
+                    .box_2127{
+                        height:40px;  width:40px; background: #181e5b; position: absolute;left:200px ;top: 340px;}
+                        
+            
+
+
+.box_212{
+    height:400px;  width:400px; background: #14cf56;position: relative;
+}
+
+
+.Box1{
+    height: 30px;
+    width: 30px;
+    background: #171772;
+}
+
